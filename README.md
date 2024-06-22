@@ -15,4 +15,4 @@ brew tap mikkurogue/mikkurogue
 
 ## While you're here
 
-Checkout my [discord](https://discord.gg/sjuAavPyQt) and [https://github.com/mikkurogue/dagger-cli](other cli tool I'm building!)
+Checkout my [discord](https://discord.gg/sjuAavPyQt) and [other cli tool I'm building](https://github.com/mikkurogue/dagger-cli)
